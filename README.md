@@ -679,7 +679,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Household finance planner: cash flow, net worth, bills, debts, savings goals and retirement projections.
 - [BillWatch](https://getbillwatchdog.com) `https://getbillwatchdog.com/mcp`
   [![BillWatch MCP connector](https://glama.ai/mcp/connectors/com.getbillwatchdog/billwatch/badges/score.svg)](https://glama.ai/mcp/connectors/com.getbillwatchdog/billwatch)
-  🔓 - Agent-searchable US streaming and VPN prices. Direct provider links, no affiliate cut. Free, no sign-up.
+  🔓 - Search current US streaming and VPN plan prices and price history, with links to each provider.
 - [BrinkerAdvisor Rates](https://mcp.brinkeradvisor.com/support) `https://mcp.brinkeradvisor.com/mcp`
   [![BrinkerAdvisor Rates MCP connector](https://glama.ai/mcp/connectors/com.brinkeradvisor.mcp/brinker-advisor-rates/badges/score.svg)](https://glama.ai/mcp/connectors/com.brinkeradvisor.mcp/brinker-advisor-rates)
   🔓 - Compare CD, money-market and Treasury rates from public records and build illustrative ladders.
